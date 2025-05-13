@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">workout</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Workout split generator and recomendations</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Enter your requirments</string>
+    <string name="image1_description">workout</string>
+    <string name="image2_description">gym</string>
+    <string name="image3_description">home workout</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
